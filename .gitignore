@@ -1,0 +1,8 @@
+# Ignorar bases de datos
+*.db
+
+# Archivos temporales
+*.tmp
+
+# Archivos de sistema
+.DS_Store
